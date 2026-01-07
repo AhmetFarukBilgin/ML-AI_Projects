@@ -1,6 +1,8 @@
 # ML-AI_Projects
 Custom ML and AI projects
-## Project Description
+
+
+## Translate_UCI_Try2 Project Description
 
 This project implements an LLM-supervised translation system on Google Colab
 for translating UCI technical and regulatory documents from English to Turkish.
